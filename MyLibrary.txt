@@ -1,0 +1,10 @@
+<book>
+   <title>Goodbye to Berlin</title>
+   <author>Кристофер Ишервуд</author>
+   <year>1939</year>
+</book>
+<book>
+   <title>Goodbye to Berlin</title>
+   <author>Кристофер Ишервуд</author>
+   <year>1939</year>
+</book>
